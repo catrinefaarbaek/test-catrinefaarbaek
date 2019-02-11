@@ -1,0 +1,30 @@
+
+.hold{
+	width: 300px;
+	background-color: yellow;
+	padding: .5em 1em ;
+}
+
+.hold--speciel{
+	background-color: orange;	
+}
+
+.hold__holdnavn{
+	border: 3px solid blue;
+}
+
+.elev{
+	color: blue;
+}
+
+.elev elev--ambassador{
+	border: 1px dashed white;
+}
+
+.elev__navn{
+	font-size: bold;
+}
+
+.elev__by{
+
+}
